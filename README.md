@@ -9,6 +9,7 @@
     - due to this, you should regularly restart as needed
 - slow roll all your downloads to limit detection
   -  according to known user listening behavior
+  -  you're still playing with fire, just a longer burn at a much lower intensity
 
 *according to a list of kpop and jpop artists
 **requires a subscription with your chosen provider AND adherence to their Terms of Service
