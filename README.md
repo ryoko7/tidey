@@ -15,4 +15,4 @@
 
 This project is for educational uses only!
 Check applicable regional or national laws before using this.
-No warranty, guarantee or assistance is given or will be given.
+**No warranty, guarantee or assistance** is given or will be given.
